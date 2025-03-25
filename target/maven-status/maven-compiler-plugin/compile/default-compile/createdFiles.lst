@@ -1,0 +1,4 @@
+com\pieropan\notifacao\adapters\in\PropostaPendenteListenerImpl.class
+com\pieropan\notifacao\application\ports\PropostaPendenteListener.class
+com\pieropan\notifacao\application\domain\Proposta.class
+com\pieropan\notifacao\application\domain\Usuario.class
