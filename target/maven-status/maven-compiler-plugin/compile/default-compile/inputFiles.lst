@@ -1,5 +1,10 @@
-C:\Users\user\Downloads\notificacao\notifacao\src\main\java\com\pieropan\notifacao\application\ports\PropostaPendenteListener.java
-C:\Users\user\Downloads\notificacao\notifacao\src\main\java\com\pieropan\notifacao\application\domain\Proposta.java
-C:\Users\user\Downloads\notificacao\notifacao\src\main\java\com\pieropan\notifacao\adapters\in\PropostaPendenteListenerImpl.java
-C:\Users\user\Downloads\notificacao\notifacao\src\main\java\com\pieropan\notifacao\NotifacaoApplication.java
-C:\Users\user\Downloads\notificacao\notifacao\src\main\java\com\pieropan\notifacao\application\domain\Usuario.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\adapters\in\helpers\MensagensSMSConstant.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\adapters\in\PropostaPendenteListenerImpl.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\application\ports\NotificacaoSnsService.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\application\ports\PropostaPendenteListener.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\application\domain\Proposta.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\config\AmazonSnsConfiguration.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\adapters\out\NotificacaoSnsServiceImpl.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\NotifacaoApplication.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\application\domain\Usuario.java
+C:\Users\user\Desktop\ms-notificacao\microsservico-notificacao-sns-aws\src\main\java\com\pieropan\notifacao\config\RabbitMQConfiguration.java
